@@ -1,0 +1,14 @@
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\bin\Debug\net8.0\remidi.exe
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\bin\Debug\net8.0\remidi.deps.json
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\bin\Debug\net8.0\remidi.runtimeconfig.json
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\bin\Debug\net8.0\remidi.dll
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\bin\Debug\net8.0\remidi.pdb
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.AssemblyInfoInputs.cache
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.AssemblyInfo.cs
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.dll
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\refint\remidi.dll
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.pdb
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\remidi.genruntimeconfig.cache
+C:\Users\ASUS-CACA\source\repos\remidi\remidi\obj\Debug\net8.0\ref\remidi.dll
